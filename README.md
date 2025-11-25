@@ -93,4 +93,6 @@ I designed the core user flow and created clean, accessible, and calming UI scre
 
 ## 📁 File Structure
 
-All case study files and final screens are uploaded in:
+All case study files and final screens are uploaded in:    https://www.figma.com/proto/EsNgqYMQdnc6l5372EnxvE/Wellness-tracker-app?page-id=0%3A1&node-id=2-19&p=f&viewport=97%2C69%2C0.25&t=RG7qRZuc3SsQKXxt-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A19
+
+
